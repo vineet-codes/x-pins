@@ -1,5 +1,156 @@
 # Saturday, January 3, 2026
 
+## @janm_uiux - Figma Plugins Part 11
+
+> You must know these Figma plugins part 11
+
+- **Tweet:** https://x.com/janm_uiux/status/2007216368429720004
+- **Media:** Video demonstration
+- **What:** Part 11 of a series on essential Figma plugins. Continues sharing useful plugins and extensions for the Figma design tool.
+
+---
+
+## @startupideaspod - 5-Prompt Workflow for Finding Startup Ideas
+
+> Copy this 5-prompt workflow to find your next startup idea:
+>
+> Step 1: "Give me 10 tedious workflows a [job title] does that AI could automate"
+> Step 2: Pick the most painful one
+> Step 3: "Which is most tedious and why?"
+> Step 4: "What would an MVP look like?"
+> Step 5: "Give me a plan to get 100 customers in 30 days"
+>
+> THE KEY: Tedious = painful = profit. Now go find yours.
+
+- **Tweet:** https://x.com/startupideaspod/status/2007168065260372076
+- **What:** A systematic 5-step AI-assisted prompt workflow for discovering startup ideas. The framework uses AI to identify tedious workflows in various job roles (which correlate with pain points), then iteratively refines the idea through MVP design and customer acquisition planning. The core insight: identifying tedious tasks reveals high-profit opportunities.
+
+---
+
+## @cameronmoll - VisitorsNow for Side Projects and AI Work
+
+> If you make only one resolution this year, make it be using @visitorsnow for side projects and AI-assisted stuff. Super simple stats. If you loved Shaun Inman's Mint, you'll love this.
+
+- **Tweet:** https://x.com/cameronmoll/status/2007107933071655399
+- **Media:** Video demonstration
+- **What:** Cameron Moll recommends VisitorsNow as an essential tool for 2026. It's a simple analytics/stats tool for side projects and AI-assisted work. For those familiar with Mint (the discontinued classic analytics tool), VisitorsNow offers similar functionality in a modern context.
+
+---
+
+## @robjama - The Difference Between an Idea and an Insight
+
+> took me 10+ years, a failed VC pitch, a few hits, a few flops and an acquisition to learn the difference between an idea and an insight
+
+- **Tweet:** https://x.com/robjama/status/2007112561716596755
+- **What:** A reflective insight from Rob Jama on the distinction between ideas and insights, learned through a decade of entrepreneurial experience. Highlights the gap between having an idea and having a meaningful insight that can drive success.
+
+---
+
+## @dsteppenbeck - Pricing Question for Habit Tracking App
+
+> Guess I should charge a bit more… How much would you charge/pay for a year of habit tracking?
+
+- **Tweet:** https://x.com/dsteppenbeck/status/2006763276575891653
+- **Media:** Photo attachment
+- **What:** David Steppenbeck seeking pricing feedback for a habit tracking application. The tweet suggests the app exists and is being evaluated for optimal pricing strategy in the market.
+
+---
+
+## @dhh - hyprwhspr: Impressive Local Speech-to-Text on CPU
+> "I had no idea that local model dictation had gotten this good and this fast! I'm blown away by how good hyprwhspr with Omarchy is just using a base model backed by the CPU. Unbelievably accurate."
+
+- **Tweet:** https://x.com/dhh/status/2007498242561593535
+- **Link:** https://github.com/goodroot/hyprwhspr
+- **Filed:** [hyprwhspr.md](./knowledge/tools/hyprwhspr.md)
+- **What:** DHH endorses hyprwhspr, a native speech-to-text tool for Arch/Omarchy that uses CPU-backed base models. He's impressed by its accuracy and speed for local dictation without cloud services. 175 GitHub stars.
+
+---
+
+## @hamptonism - C.G. Jung Quote on Work and Friendship
+> "No matter how isolated you are and how lonely you feel, if you do your work truly and conscientiously, unknown friends will come and seek you. - C. G. Jung."
+
+- **Tweet:** https://x.com/hamptonism/status/2007276838192902533
+- **Media:** Video
+- **What:** Motivational tweet featuring a C.G. Jung quote about the power of doing meaningful work to attract genuine connections and community, even when feeling isolated.
+
+---
+
+## @nikunj - Claude Skills Daily Brief Tool
+> "Claude Skills is really slept upon.. Built this \"daily brief\" skill that goes through my iMessage & WhatsApp (both locally), Gmail & GCal to give me a full update on things and prep (w/ web research) for my meetings. Even an EA can't do this amount of thorough vetting!"
+
+- **Tweet:** https://x.com/nikunj/status/2007337666594123974
+- **Media:** Photo
+- **What:** Nikunj demonstrates an impressive Claude Skills implementation that aggregates information from multiple local sources (iMessage, WhatsApp, Gmail, Google Calendar) and performs web research to create a comprehensive daily briefing for meeting prep. Highlights the power of Claude Skills for personal productivity automation.
+
+---
+
+## @LifeMathMoney - How to Win Friends and Influence People Unrevised Edition
+> "You *really* want to read the unrevised edition of this book. This is because Carnige's feminist wife and daughter heavily edited his book after he died to make it more politically correct. For example (among other things) they completely deleted 8 chapters on dealing with women. The unrevised edition is available here:"
+
+- **Tweet:** https://x.com/LifeMathMoney/status/2007175140719935944
+- **Link:** https://socialskillswisdom.com/
+- **Filed:** [how-to-win-friends-unrevised.md](./knowledge/articles/how-to-win-friends-unrevised.md)
+- **What:** Highlights the importance of reading Dale Carnegie's original, unrevised edition of "How to Win Friends and Influence People" which contains 8 complete chapters on relationships that were removed by his family in later editions. The unrevised edition represents his original philosophy before posthumous editing.
+
+---
+
+## @AmericanDebunk - Scott Adams "User Interface for Reality" Livestream
+> "Arguably Scott Adams' greatest livestream video ever- The User Interface for Reality. If you know, you know."
+
+- **Tweet:** https://x.com/AmericanDebunk/status/2007143046438367397
+- **Media:** Video
+- **What:** Recommendation for Scott Adams' "User Interface for Reality" livestream video, described as one of his greatest streams. Flagged for transcription to capture the full content.
+
+---
+
+## @gregisenberg - Pricing 101
+> "How much would you charge/pay for a year of habit tracking?"
+>
+> Replying to @dsteppenbeck's question: "Guess I should charge a bit more…"
+
+- **Tweet:** https://x.com/gregisenberg/status/2007149606883471844
+- **Link:** https://www.instagram.com/p/DTApxe3kRHg/
+- **Filed:** [pricing-101-gregisenberg.md](./knowledge/articles/pricing-101-gregisenberg.md)
+- **What:** Discussion on pricing strategy for SaaS products, specifically habit tracking applications. Covers considerations for determining appropriate pricing for recurring subscription products.
+
+---
+
+## @ModernxDad - Gender Dynamics Observation
+> "All women say they want a good man until they.."
+
+- **Tweet:** https://x.com/ModernxDad/status/2006775425675178086
+- **Media:** Video
+- **What:** Sociological observation presented as a video clip about relationship dynamics and expectations.
+
+---
+
+## @jerrythornton - Memorable Moment
+> "This is going to stick with me forever"
+
+- **Tweet:** https://x.com/jerrythornton/status/2007078990172082316
+- **Media:** Video
+- **What:** Personal reflection on a memorable experience or moment shared via video content.
+
+---
+
+## @thesamparr - Impactful Moment Response
+> "This impacted me"
+
+- **Tweet:** https://x.com/thesamparr/status/2007125165516509296
+- **Quote of:** https://x.com/jerrythornton/status/2007078990172082316
+- **What:** Response to Jerry Thornton's memorable moment, indicating the content had an emotional or meaningful impact on the author.
+
+---
+
+## @IntuitMachine - The Architecture of Reason
+> "The Architecture of Reason (in 23 slides)"
+
+- **Tweet:** https://x.com/IntuitMachine/status/2007076930424836525
+- **Media:** Photo (presentation slides)
+- **What:** Presentation or visual guide breaking down the structure of reasoning into 23 components. Useful reference for understanding AI reasoning systems or cognitive architectures.
+
+---
+
 ## @jasonlk - Building Software in 2026 with AI Agents
 > "This is the most exciting time in our lives to build software" with @lennysan
 >
