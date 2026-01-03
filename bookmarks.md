@@ -1,3 +1,18 @@
+# Sunday, January 4, 2026
+
+## @threepointone - Where Good Ideas Come From (for Coding Agents)
+
+> new post: where good ideas come from (for coding agents) https://t.co/CwE393F8rz
+>
+> thought about why some people cook with coding agents, and others bounce off. my take: llms are "thought completers" traversing idea-space - so good results come from good navigation: constraints, context, oracles, loops. I used steven johnson's "where good ideas come" from as a rubric and mapped it onto coding agents. also a note about how "juniors" can adapt to this new feature, and what "creating software" looks like practically.
+
+- **Tweet:** https://x.com/threepointone/status/2007497491294396565
+- **Link:** https://sunilpai.dev/posts/seven-ways/
+- **Filed:** [seven-ways-coding-agents.md](./knowledge/articles/seven-ways-coding-agents.md)
+- **What:** Article by Sunil Pai exploring why some developers thrive with coding agents while others struggle. Maps Steven Johnson's "Where Good Ideas Come From" framework onto AI-assisted development, emphasizing that LLMs are "thought completers" requiring good navigation through constraints, context, oracles, and loops for best results.
+
+---
+
 # Saturday, January 3, 2026
 
 ## @janm_uiux - Figma Plugins Part 11
