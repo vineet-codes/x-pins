@@ -1,3 +1,74 @@
+# Saturday, January 3, 2026
+
+## @jasonlk - Building Software in 2026 with AI Agents
+> "This is the most exciting time in our lives to build software" with @lennysan
+>
+> "I can't even code and I've built 12 apps on @Replit that have been used almost 1,000,000 times.
+>
+> And we run an eight figure business with 2 humans and 20 AI Agents.
+>
+> This wasn't even possible at the start of 2025.
+>
+> These are magical times. But it's also even more work. It's hard.
+>
+> Pick your path."
+
+- **Tweet:** https://x.com/jasonlk/status/2007201734863564839
+- **What:** Reflection on the transformative power of AI agents and low-code platforms in 2026. Jason shares his experience running an eight-figure business with just 2 humans and 20 AI agents using Replit, highlighting both the magical opportunities and the increased complexity of building software in this era.
+
+---
+
+## @gregisenberg - How to Build a Big Consumer B2C Mobile App in 2026
+> HOW TO BUILD A BIG CONSUMER B2C MOBILE APP IN 2026
+>
+> 1. start with a single recurring behavior people already document, like meals, sleep, workouts, studying, dating, or routines.
+>
+> 2. anchor the app to one question users already ask themselves daily...
+>
+> [Continues with 30 more points covering demo-driven development, viral growth strategies, creator economics, and scaling...]
+>
+> 33. you set yourself up nicely for 2027 and beyond
+
+- **Tweet:** https://x.com/gregisenberg/status/2007196254078480663
+- **What:** Comprehensive 33-point framework for building and scaling consumer B2C mobile apps in 2026. Covers product-market fit fundamentals (single behavior, recurring use, narrow audience), demo-driven development, content strategy for growth, paywall placement, data-driven iteration, community loops, and portfolio diversification. Emphasizes shipping fast, reading market signals, understanding LTV/CAC metrics, and reinvesting cash flow.
+
+---
+
+## @alexhillman - Smaug Bookmark Tool Now Supports Likes
+> okay, good news for you maniacs who use twitter likes instead of bookmarks... @swairshah added like support to bird, I added support to Smaug!
+>
+> Smaug still defaults to bookmarks, but you can switch bookmarks, likes, or both if you're really wild
+
+- **Tweet:** https://x.com/alexhillman/status/2007164490954182943
+- **Link:** https://github.com/alexknowshtml/smaug
+- **Filed:** [smaug-likes-support.md](./knowledge/tools/smaug-likes-support.md)
+- **What:** Alex Hillman added support for Twitter likes in addition to bookmarks in the Smaug bookmark archiving tool. Users can now choose to archive bookmarks, likes, or both. Smaug is a JavaScript tool that automatically archives Twitter/X bookmarks to markdown, with 371 GitHub stars.
+
+---
+
+## @hosseeb - Recursive Self-Improvement with Claude Code
+> It's official. Recursive self-improvement is here.
+>
+> Though at the moment, it's a for-loop with a human inside, copy-pasting stuff into claude.md.
+
+- **Tweet:** https://x.com/hosseeb/status/2007221763172958313
+- **Quote of:** https://x.com/bcherny/status/2007179832300581177
+- **What:** Haseeb humorously comments on Boris Cherny's Claude Code usage thread, noting that while recursive self-improvement seems to have arrived, it's currently implemented as a manual loop with a human copy-pasting content into files. A meta-commentary on the emerging workflow of human-in-the-loop AI development iteration.
+
+---
+
+## @bcherny - Claude Code Creator Shows His Vanilla Setup
+> I'm Boris and I created Claude Code. Lots of people have asked how I use Claude Code, so I wanted to show off my setup a bit.
+>
+> My setup might be surprisingly vanilla! Claude Code works great out of the box, so I personally don't customize it much. There is no one correct way to use Claude Code: we intentionally build it in a way that you can use it, customize it, and hack it however you like. Each person on the Claude Code team uses it very differently.
+>
+> So, here goes.
+
+- **Tweet:** https://x.com/bcherny/status/2007179832300581177
+- **What:** Boris Cherny, creator of Claude Code, shares his personal setup and workflow. Emphasizes that Claude Code requires minimal customization and works well out of the box, while acknowledging that different users on the team have very different workflows. The thread introduces his deeper dive into his specific usage patterns.
+
+---
+
 # Friday, January 2, 2026
 
 ## @parcadei - Continuous Claude v2 Context Management
