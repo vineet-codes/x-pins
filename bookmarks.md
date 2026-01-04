@@ -1,5 +1,121 @@
 # Sunday, January 4, 2026
 
+## @iannuttall - Discussion: Global Agent Rules and Instructions Management
+
+> what's everybody using for global agent rules/instructions now?
+>
+> - AGENT.⁠md/CLAUDE.⁠md
+> - SKILL.⁠md
+> - something else
+>
+> example: should my commit rules be in a global file loaded into context on every request (in theory!) or a skill that gets loaded when i say "commit this"?
+
+- **Tweet:** https://x.com/iannuttall/status/2007400556898463824
+- **What:** Ian Nuttall asks the community about best practices for organizing Claude Code global instructions. The question centers on choosing between persistent context files (AGENT.md/CLAUDE.md) versus on-demand skills (SKILL.md), using commit rules as a concrete example of when to use each approach.
+
+## @elliotarledge - Comprehensive Claude Code Configuration Example
+
+> ~ ❯ cat ~/.claude/CLAUDE.md
+> <claude-instructions>
+>
+> <python>
+>   Use uv for everything: uv run, uv pip, uv venv.
+> </python>
+>
+> <principles>
+>   <style>No emojis. No em dashes - use hyphens or colons instead.</style>
+>
+>   <epistemology>
+>     Assumptions are the enemy. Never guess numerical values - benchmark instead of estimating.
+>     When uncertain, measure. Say "this needs to be measured" rather than inventing statistics.
+>   </epistemology>
+>
+>   <scaling>
+>     Validate at small scale before scaling up. Run a sub-minute version first to verify the
+>     full pipeline works. When scaling, only the scale parameter should change.
+>   </scaling>
+>
+>   <interaction>
+>     Clarify unclear requests, then proceed autonomously. Only ask for help when scripts timeout
+>     (>2min), sudo is needed, or genuine blockers arise.
+>   </interaction>
+>
+>   <ground-truth-clarification>
+>     For non-trivial tasks, reach ground truth understanding before coding. Simple tasks execute
+>     immediately. Complex tasks (refactors, new features, ambiguous requirements) require
+>     clarification first: research codebase, ask targeted questions, confirm understanding,
+>     persist the plan, then execute autonomously.
+>   </ground-truth-clarification>
+>
+>   <spec-driven-development>
+>     When starting a new project, after compaction, or when SPEC.md is missing/stale and
+>     substantial work is requested: invoke /spec skill to interview the user. The spec persists
+>     across compactions and prevents context loss. Update SPEC.md as the project evolves.
+>     If stuck or losing track of goals, re-read SPEC.md or re-interview.
+>   </spec-driven-development>
+>
+>   <first-principles-reimplementation>
+>     Building from scratch can beat adapting legacy code when implementations are in wrong
+>     languages, carry historical baggage, or need architectural rewrites. Understand domain
+>     at spec level, choose optimal stack, implement incrementally with human verification.
+>   </first-principles-reimplementation>
+>
+>   <constraint-persistence>
+>     When user defines constraints ("never X", "always Y", "from now on"), immediately persist
+>     to project's local CLAUDE.md. Acknowledge, write, confirm.
+>   </constraint-persistence>
+> </principles>
+>
+> <machines>
+>   `ssh macbook` - MacBook Pro
+>   `ssh theodolos` - local workstation, RTX 3090
+>   Check which machine we are currently on before using these.
+> </machines>
+>
+> </claude-instructions>
+>
+> *Quoting @iannuttall:* what's everybody using for global agent rules/instructions now?
+
+- **Tweet:** https://x.com/elliotarledge/status/2007752112361685197
+- **Quoted:** https://x.com/iannuttall/status/2007400556898463824
+- **Link:** https://specroot.com/?ref=spec.md
+- **Filed:** [elliot-arledge-claude-config.md](./knowledge/articles/elliot-arledge-claude-config.md)
+- **What:** Elliot Arledge shares his comprehensive ~/.claude/CLAUDE.md configuration in response to Ian's question about global agent rules. His setup emphasizes epistemology (measure, don't guess), scaling strategies (validate small first), spec-driven development with persistent context, and constraint management. Includes principles for interaction patterns, ground-truth clarification before coding, and first-principles reimplementation. References Specroot for spec management.
+
+## @huang_chao4969 - DeepTutor: AI-Powered Personalized Learning Assistant
+
+> Released just five days ago, DeepTutor has already surged past 1.4K stars on Github! It seems people are hungry for a smart learning assistant that truly understands them.
+>
+> 🔗 Fully Open-Source: https://github.com/HKUDS/DeepTutor
+>
+> We talked to countless students and kept hearing the same pain points: existing AI tools are either too fragmented or fail to capture personal learning context effectively. That's exactly why we built DeepTutor—to create an AI learning companion that actually remembers your progress and adapts to your unique learning style.
+>
+> DeepTutor's Core Architecture
+> - 💬 User Interface Layer
+> Intuitive bidirectional interaction with structured, actionable outputs that organize complex context seamlessly.
+>
+> - 🤖 Intelligent Agent Modules
+> Specialized multi-agent collaboration: problem solving, deep research, guided learning, and idea generation.
+>
+> - 🔧 Tool Integration Layer
+> Unified access to RAG retrieval, real-time web search, academic databases, and code execution capabilities.
+>
+> - 🧠 Personalized Knowledge & Memory Foundation
+> Persistent memory system built on knowledge graphs with contextual session tracking. Creates truly personalized learning experiences tailored to your individual progress and preferences.
+
+- **Tweet:** https://x.com/huang_chao4969/status/2007726817692795153
+- **Link:** https://github.com/HKUDS/DeepTutor
+- **Filed:** [deeptutor.md](./knowledge/tools/deeptutor.md)
+- **What:** Open-source AI learning assistant with 2,125+ GitHub stars (from 1.4K in 5 days). Features multi-agent architecture with specialized agents for problem solving, deep research, guided learning, and idea generation. Built on knowledge graphs with persistent memory that tracks individual learning progress. Includes document Q&A, interactive visualizations, practice exercise generation, and cross-domain research synthesis. Python-based with Next.js frontend and FastAPI backend.
+
+## @karrisaarinen - Twitter Article Post
+
+> https://x.com/i/article/2007529107081347072
+
+- **Tweet:** https://x.com/karrisaarinen/status/2007534281011155419
+- **Link:** https://x.com/i/article/2007529107081347072
+- **What:** Karri Saarinen shares a Twitter article (long-form content). The article link requires authentication to view the full content. Context and subject matter not available from the bookmark data.
+
 ## @gregisenberg - Young Founders Built Different: 13 Observations on Gen Z AI Entrepreneurs
 
 > ive been hanging out with founders under 22 lately living in sf/nyc and they're built different.
