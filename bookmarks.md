@@ -1,5 +1,119 @@
 # Sunday, January 4, 2026
 
+## @gregisenberg - Young Founders Built Different: 13 Observations on Gen Z AI Entrepreneurs
+
+> ive been hanging out with founders under 22 lately living in sf/nyc and they're built different.
+>
+> my observations of these young founders getting rich with AI:
+>
+> 1. these kids grew up watching YT creators flexing Porsches and private jets from their bedrooms. but when they looked at their own reality, they saw $200k college tuition and $45k entry-level jobs. the math didn't work. so they decided to skip the broken system entirely.
+>
+> 2. that economic reality shaped everything about them. they're unapologetically capitalistic in a way that reminds me of the 80s Wall Street era. pure survival capitalism. they think they need millions just to live comfortably, they look at $4,000 studio apartments in ny, and they're not wrong. tons of economic pressure for everyone right now and inflation worries.
+>
+> 3. so they formed group chats with other founders. their mentors are podcasts. they're plugged in and learning 24/7, treating business like a multiplayer video game they're trying to beat.
+>
+> 4. sam altman said something that stuck with me: older generations use ChatGPT as a Google replacement, but these kids use it as an operating system. they see this AI era as their gateway out of economic reality.
+>
+> 5. everything they do is optimized for virality. their startup journey reads like a Netflix documentary with built-in trailers. every product decision considers "will this clip work on X?" they reverse engineer social algorithms with their business models. it's like NELK Boys meets Spielberg meets YC demo day.
+>
+> 6. they build products designed to go viral on specific platforms. they'll time launches around trending topics. they'll create TikToks showcasing their SaaS tool like entertainment content.
+>
+> 7. some go the cash flow route, building consumer mobile apps like nikita or build saas portfolios. others raise millions in VC funding. the more the vc the better they think.
+>
+> 8. they document every failure, breakthrough, and late-night coding session. their businesses are performance art for the algorithm age.
+>
+> 9. they're not trying to fix the broken system that priced them out. they're building entirely around it. and they're winning because they accepted the new rules while everyone else is still playing by the old ones.
+>
+> 10. a lot will fail in public and end up working at companies. it'll be crushing. especially the ones that raise tons of vc. that's the game. but some will succeed in ways we've never seen before.
+>
+> 11. they think in portfolios from day one. not "this is my startup," but "this is one bet." apps, tools, experiments, accounts. they expect most to die and one to change their life.
+>
+> 12. many are hyper-capitalistic. michael douglas in wall street energy, but with claude, cursor, and viral clips instead of suspenders and cigars. theyve got big dreams and aren't afraid to go after them.
+>
+> 13. the same inflated world that crushed previous generations might have created the most resourceful generation of entrepreneurs we've ever seen. they are turning systemic failure into competitive advantage.
+>
+> pretty genius when you think about it. the kids are alright.
+
+- **Tweet:** https://x.com/gregisenberg/status/2007563115471552894
+- **What:** Greg Isenberg shares 13 observations about Gen Z founders (under 22) in SF/NYC who are building AI businesses. They've grown up watching creator economy success stories and faced economic realities (college costs, low entry-level wages) that motivated them to skip traditional paths. Key traits: unapologetic capitalism, treating business as a multiplayer game, optimizing everything for virality, documenting their journey as content, thinking in portfolios of bets rather than single startups, and using AI tools like Claude as operating systems. They've accepted new rules while older generations still play by old ones, creating competitive advantages from systemic failures.
+
+---
+
+## @lennysan - AI Productivity Survey: What's Working for PMs
+
+> What exactly AI is doing for people, function by function
+>
+> Results from a large-scale AI productivity survey of my 1m+ newsletter subscribers (with @noamseg)
+>
+> 1. PMs are seeing the most value from AI tools to (1) write PRDs, (2) create mockups/prototypes, and (3) improve their communication across emails and presentations.
+>
+> Not so much to help them come up with roadmap ideas, run meetings, GTM, or user research synthesis.
+>
+> AI is helping PMs produce, but so far it lags in helping them think.
+
+- **Tweet:** https://x.com/lennysan/status/2003595238603129318
+- **What:** Lenny Rachitsky shares survey results from 1M+ newsletter subscribers (conducted with Noam Segev) on where AI is creating value for product managers. AI excels at productivity tasks (writing PRDs, prototypes, communication) but currently lags at strategic thinking (roadmap ideas, GTM, user research synthesis). The distinction reveals AI's strengths in production vs. ideation.
+
+---
+
+## @JohnathanBi - Jim O'Shaughnessy: The Rare Thinker-Doer Across Four Generations
+
+> It's rare to find someone who is a thinker and a doer. My guest Jim O'Shaughnessy is one of them: a legendary Wall Street investor who has an unquenchable thirst for the humanities. I met Jim a couple of years ago when he first interviewed me on Girard and we became fast friends because of how rare that combination is.
+>
+> And then, I met one of his sons Patrick, who has also become a friend. Patrick studied philosophy at Notre Dame and is now one of the top venture capitalists. I thought: Huh? Rarer still. As I was preparing for this interview, I came across a book written about Jim's grandfather IA O'Shaughnessy who was one of the most successful oilmen in the 20th century, trained in the liberal arts, and was the largest donor to Notre Dame who endowed the humanities building.
+>
+> It's rare enough to synthesize action and contemplation in one individual: how does one sustain that across now four generations?
+
+- **Tweet:** https://x.com/JohnathanBi/status/2007482162619031626
+- **What:** Podcast episode introduction featuring Jim O'Shaughnessy, a legendary Wall Street investor and humanities scholar. Explores the rare combination of being both a thinker and doer across four generations of the O'Shaughnessy family: from patriarch IA (successful oilman and Notre Dame patron), through Jim (investor and media figure), to his son Patrick (venture capitalist and philosopher). Episode covers the role of humanities in shaping varied careers across finance, media, and philanthropy.
+
+---
+
+## @Mindset_Machine - The Most Dangerous Temptation in Life
+
+> The most dangerous temptation in life… https://t.co/KWYsBtvnAV
+
+- **Tweet:** https://x.com/Mindset_Machine/status/2007441059580653654
+- **Media:** Video content
+- **What:** Video from Mindset Machine exploring the concept of temptation and its dangers. Flagged for transcription to capture the full message.
+
+---
+
+## @WhiteHouse - Official White House Video Post
+
+> If you don't know, now you know 🦅
+
+- **Tweet:** https://x.com/WhiteHouse/status/2007557671705293009
+- **Media:** Video
+- **What:** Official White House account sharing a video message. The cryptic nature and eagle emoji suggest important government content or announcement.
+
+---
+
+## @notcodesid - Best Subreddits for Building Your Own Product
+
+> some of best subreddits, if you're building your own product.
+>
+> - r/sweatystartup
+> - r/Entrepreneur
+> - r/startups
+> - r/IndieGem
+> - r/SideProject
+> - r/startup
+> - r/ProductLaunch
+> - r/AskReddit
+> - r/EntrepreneurRideAlong
+> - r/SmallBusiness
+> - r/EntrepreneurForum
+> - r/smallbusiness
+> - r/AlternativeOrg
+>
+> don't just spam links. be helpful, be real, engage and then pitch the product. provide value.
+
+- **Tweet:** https://x.com/notcodesid/status/2007425052904698193
+- **What:** Curated collection of 13 subreddits for indie builders and product founders. Includes communities focused on sweaty startups, entrepreneurship, side projects, and startup resources. The author emphasizes the importance of authentic engagement and value-first approach over promotional spam—essential advice for anyone seeking community support for their product launch.
+
+---
+
 ## @threepointone - Where Good Ideas Come From (for Coding Agents)
 
 > new post: where good ideas come from (for coding agents) https://t.co/CwE393F8rz
