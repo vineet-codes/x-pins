@@ -1,5 +1,115 @@
 # Monday, January 5, 2026
 
+## @nabeelqu - Tight Deadlines and Shipping Fast
+
+> Give yourself tight deadlines and ship things fast.
+>
+> "Do the five day version"
+
+- **Tweet:** https://x.com/nabeelqu/status/2007873410618065339
+- **What:** Nabeel Qureshi advocates for using tight deadlines as a constraint to drive faster shipping cycles, specifically referencing the value of creating a working "five day version" of projects rather than waiting for a fully polished release.
+
+## @BrianRoemmele - Terence McKenna Prophecy
+
+> *Replying to @BrianRoemmele:* I'm sorry. Doing my best to prepare you for what I have seen ahead.
+>
+> "It's going to get weirder and weirder..." —Terence McKenna, 1999
+
+- **Tweet:** https://x.com/BrianRoemmele/status/2007874183045464529
+- **Parent:** https://x.com/BrianRoemmele/status/2007838494513906051
+- **What:** Brian Roemmele shares a Terence McKenna quote from 1999 as a reply to his own thread about preparing for an uncertain future. The McKenna quote emphasizes an expectation of increasing strangeness and unpredictability ahead.
+
+## @heyitsnoah - It's a Good Time to Be a Weirdo
+
+> I was inspired rereading @paulg's "How to do great work" essay to write about why I think it's a particularly good time to be a weirdo.
+>
+> *Quoting @heyitsnoah:* It's a Good Time to Be a Weirdo
+>
+> Paul Graham (@paulg), on the absurdity of career planning: The educational systems in most countries pretend it's easy. They expect you to commit to a field long before you could know what it's really like...
+> AI changes this. Now you can exercise each of your hyphens to a degree that was unimaginable five years ago. A 30th percentile coder becomes 70th percentile with the help of AI...
+
+- **Tweet:** https://x.com/heyitsnoah/status/2007855443666997623
+- **Quoted:** https://x.com/heyitsnoah/status/2007854424417259725
+- **Filed:** [good-time-be-weirdo.md](./knowledge/articles/good-time-be-weirdo.md)
+- **What:** Noah Brier writes about why AI enables multi-hyphenate professionals to thrive by amplifying their diverse skills, contrasting this opportunity with outdated educational systems that force early career specialization. Inspired by Paul Graham's "How to do great work" essay.
+
+## @shaneparrish - 46 Tiny Lessons from James Clear Episode
+
+> Here some of my Tiny Lessons from this episode with @JamesClear
+>
+> 1. "Every action you take is like a vote for the type of person you wish to become."
+> 2. "You cannot outwork the person working on a better thing."
+> [... 44 more lessons covering habits, motivation, psychology, consistency, and personal development ...]
+> 46. "Don't waste the reader's time."
+
+- **Tweet:** https://x.com/shaneparrish/status/2007826067029905519
+- **Quoted:** https://x.com/shaneparrish/status/2007079644105679028
+- **Filed:** [farnam-street-james-clear-lessons.md](./knowledge/podcasts/farnam-street-james-clear-lessons.md)
+- **Status:** Needs transcript
+- **What:** Shane Parrish distills 46 key lessons from his podcast conversation with James Clear on habits, motivation, and psychology. Topics include identity in habit formation, consistency vs. intensity, patience, environmental design, and achieving results through strategic thinking and compound effort.
+
+## @mattpocockuk - Agent Systems Evolution
+
+> How it started:
+>
+> Swarms, Orchestrators, Agent meshes, Multi-agent frameworks, Hierarchical agent systems, Agent-to-agent protocols
+>
+> How it's going: https://t.co/58plOaLUkr
+
+- **Tweet:** https://x.com/mattpocockuk/status/2008142709526344117
+- **What:** Matt Pocock illustrates the rapid evolution and proliferation of agent-related concepts and frameworks in AI development, showing how the field has exploded from basic swarms to complex multi-agent systems.
+
+## @alexhillman - Plant Seed Workflow for Idea Management
+
+> One of the ways I make sure that my ADHD of ideas doesn't get in the way of building things that matter is this "plant seed" workflow
+>
+> https://t.co/ptIY0HzMSJ
+>
+> Looks at the recent conversation, gatherers context, and then files the idea based on factors like readiness, impact, breakage, etc.
+>
+> Then the system surfaces stuff when I should build it instead of me forgetting the idea forever.
+>
+> *Quoting @elrolio:* @elrolio https://t.co/AuzdjRHU6o
+
+- **Tweet:** https://x.com/alexhillman/status/2007943079387427004
+- **Quoted:** https://x.com/alexhillman/status/2007941058693312893
+- **Link:** https://gist.github.com/alexknowshtml/864b51b885fbaa055679be50941c75f6
+- **Filed:** [plant-seed-workflow-idea-management.md](./knowledge/tools/plant-seed-workflow-idea-management.md)
+- **What:** Alex Hillman shares a GitHub gist showing a systematic "plant seed" workflow for capturing and categorizing ideas based on readiness, impact, and effort. The system automatically surfaces ideas when they're ready to be built rather than letting them get lost.
+
+## @elrolio - Content Generation System for Claude Code Work
+
+> I keep doing interesting work in Claude Code and never turning it into content.
+>
+> By the time I think "that could be a post," I'm already onto the next thing. Then I'd need to remember what happened, figure out what to say, then write it.
+>
+> So I built a system that does it for me. https://t.co/qn9OKbzWSD
+
+- **Tweet:** https://x.com/elrolio/status/2007898093958967661
+- **What:** El Rolio describes an automated system that transforms Claude Code work into content posts, eliminating the friction of remembering past work, deciding what to share, and writing it up manually.
+
+## @pepicrft - Clawdbot + Mise Integration PR
+
+> I've been thinking about how to marry two of my favorite tools: @steipete's Clawdbot and @jdxcode's Mise.
+>
+> Clawdbot is an incredible AI assistant that can run locally and interact with your system. Mise is a polyglot tool version manager that can install pretty much anything.
+>
+> This PR adds a convenient interface to Clawdbot for installing CLIs from a registry, using Mise under the hood. One command to install, compile if needed, and enable globally.
+>
+> In a follow-up I'd like to add support for auto-discovery of the right Mise tool backend (npm, go, cargo, ubi, etc.) based on the project structure.
+
+- **Tweet:** https://x.com/pepicrft/status/2007900125310644688
+- **Link:** https://github.com/clawdbot/clawdbot/pull/189
+- **Filed:** [clawdbot-mise-cli-integration.md](./knowledge/tools/clawdbot-mise-cli-integration.md)
+- **What:** Pedro Piñera shares a PR that integrates Clawdbot (a personal AI assistant) with Mise (a polyglot version manager), allowing Clawdbot users to install CLIs seamlessly through a unified command interface.
+
+## @krypt0kwack - Content Arc Tweet
+
+> https://t.co/ZBTTZYzgvx
+
+- **Tweet:** https://x.com/krypt0kwack/status/2007794599973028226
+- **What:** Krypt0Kwack shares a link to another tweet/article. Limited context from the bookmark itself.
+
 ## @hyperbrowser - Claude Code Docs Fetch Tool
 
 > Claude Code is already incredible.
