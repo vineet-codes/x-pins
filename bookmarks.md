@@ -1,3 +1,72 @@
+# Monday, January 5, 2026
+
+## @SahilBloom - The Empty Boat Mindset
+
+> Everyone needs to hear this…
+>
+> The Empty Boat Mindset:
+>
+> (a visual thread) https://t.co/xpEq0kA7oJ
+
+- **Tweet:** https://x.com/SahilBloom/status/1959234139246199206
+- **What:** Sahil Bloom shares the Empty Boat Mindset concept through a visual thread. The metaphor illustrates how perspective and detachment can free us from unnecessary emotional reactions and resentment in life.
+
+## @ShaanVP - Three Ways to Hijack Your Creative Brain
+
+> 3 ways to hijack the creative part of your brain:
+>
+> 1. Morning Mud - Work like a pig, roll in mediocrity. Seinfeld spent 2 hours daily writing jokes for 40+ years, with less than 0.1% making it into standup. Ed Sheeran: "I must dare to suck."
+>
+> 2. Engineered Rest - Breakthrough ideas come in water, motion, or after naps. Einstein floated boats, Darwin walked while thinking, JK Rowling ideated on trains. Edison/Dali took hypnagogic naps. Showers and rest aren't lazy - they're essential.
+>
+> 3. Think Inside the Box - Dr. Seuss wrote Green Eggs and Ham in under 50 words, creating his best-seller. Constraints breed creativity, not freedom. Fewer options, tight deadlines, less features = master creator tools.
+
+- **Tweet:** https://x.com/ShaanVP/status/2007909912723018067
+- **What:** Shaan Puri breaks down three evidence-based strategies for unleashing creative potential: embracing daily mediocrity to build quality through volume, engineering rest and context shifts for breakthrough thinking, and using constraints as creative tools rather than limitations.
+
+## @jayplemons - Engineering Luck: Scott Adams Framework
+
+> Luck isn't random. It's engineered.
+>
+> Scott Adams breaks down how to get lucky:
+> 🍀 Expect luck to happen
+> 🍀 Go where the energy is
+> 🍀 Network rigorously
+> 🍀 Stack skills
+> 🍀 Gain experience
+> 🍀 Keep trying stuff
+> 🍀 Fail forward
+> 🍀 Try some long shots
+>
+> @ScottAdamsSays "If you give yourself this many opportunities for luck to find you, luck's gonna find you."
+
+- **Tweet:** https://x.com/jayplemons/status/2007944986843873572
+- **What:** Jay Plemons shares Scott Adams' framework for generating luck through deliberate action: multiple parallel experiments, skill stacking, strategic networking, and willingness to fail. The thesis is that luck accumulates from creating sufficient opportunities.
+
+## @illscience - [Linked Article/Tweet]
+
+> https://t.co/0Wj540KLcU
+
+- **Tweet:** https://x.com/illscience/status/2007855098513240255
+- **Link:** https://x.com/i/article/2007574590021627905
+- **What:** Anish Acharya shares a linked tweet article. Content details not available from the bookmark data.
+
+## @mattpocockuk - Ralph Wiggum: Long-Running AI Coding Agent Architecture
+
+> There's an AI coding approach that lets you run seriously long-running AI agents (hours, days) that ship code while you sleep. I've tried it, and I'm not going back.
+>
+> The Ralph Wiggum approach uses a bash loop running a coding agent repeatedly until completion. Key elements:
+> - Bash script with finite loop iterations
+> - Agent works on single features with a COMPLETE stop condition
+> - Progress tracking via progress.txt file and commits
+> - CI/CD integration to keep builds green
+> - PRD-based approach using JSON with feature user stories to prevent scope creep
+>
+> This framework prevents context window overflow and maintains code quality through feedback loops.
+
+- **Tweet:** https://x.com/mattpocockuk/status/2007924876548637089
+- **What:** Matt Pocock details the Ralph Wiggum pattern for autonomous AI coding agents that can run unattended for hours/days. The architecture combines bash orchestration, PRD-based task scoping, progress tracking, and CI/CD validation to enable reliable long-running code generation without human intervention.
+
 # Sunday, January 4, 2026
 
 ## @iannuttall - Discussion: Global Agent Rules and Instructions Management
