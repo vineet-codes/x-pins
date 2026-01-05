@@ -1,5 +1,64 @@
 # Monday, January 5, 2026
 
+## @EXM7777 - Twitter Article Link
+
+> https://t.co/yf5Lde67ga
+
+- **Tweet:** https://x.com/EXM7777/status/2007881988779266477
+- **What:** Machina shares a tweet that contains a link to another article (type appears to be tweet within tweet context). Likely relevant to development or AI topics given the source context.
+
+## @moreconfetti - Compound Engineering: How Every Codes With Agents
+
+> https://t.co/dJbCiXKYjL
+> @every has developed one of the best engineering toolkits for @claudeai (especially useful for my Rails projects) and @danshipper is a must follow for AI thought leadership in 2026
+
+- **Tweet:** https://x.com/moreconfetti/status/2007866139007975435
+- **Link:** https://every.to/chain-of-thought/compound-engineering-how-every-codes-with-agents
+- **Filed:** [compound-engineering-every-agents.md](./knowledge/articles/compound-engineering-every-agents.md)
+- **What:** Steve Caldwell highlights Every's engineering toolkit for Claude AI, emphasizing its effectiveness for Rails development. He recommends following Dan Shipper for AI thought leadership.
+
+## @moreconfetti - Shipping at Inference-Speed with Peter Steinberger
+
+> *Replying to @moreconfetti:* PSA for a CTO, Head of AI, VP/Dir of Engineering, CXO: This is going to be one of the most important "back to work" weeks of your career. You must get your team aligned on agentic dev ASAP...
+>
+> https://t.co/aG6odRE5we
+> @steipete is making waves with his Clawdbot project. Understand how he works and why he prefers Codex over Claude Code:
+
+- **Tweet:** https://x.com/moreconfetti/status/2007866137191805130
+- **Parent:** https://x.com/moreconfetti/status/2007866135547646039
+- **Link:** https://steipete.me/posts/2025/shipping-at-inference-speed
+- **Filed:** [shipping-inference-speed-steinberger.md](./knowledge/articles/shipping-inference-speed-steinberger.md)
+- **What:** Steve Caldwell shares Peter Steinberger's article on shipping at inference speed, highlighting the shift from traditional code review to watching AI agents generate code. Details Peter's Clawdbot project and his perspective on why he prefers Codex for certain workflows.
+
+## @petergyang - Comprehensive Claude Code Tutorials and Interviews
+
+> All my practical Claude Code tutorials and interviews in one list:
+>
+> TUTORIALS
+>
+> Build a movie discovery app in 15 min: https://t.co/Uvu5Z2eRZM
+>
+> Build a YouTube research agent in 15 min: https://t.co/JkSfuZWM3L
+>
+> Build a family activity finder in 35 min: https://t.co/uHXRYPQ3uO
+>
+> INTERVIEWS
+>
+> How the Claude Code team ships | Cat Wu (Product Lead): https://t.co/KEZO8FnjPW
+>
+> From design to code with Claude Code | Meaghan Choi (Design Lead): https://t.co/ey5ilyn2Kt
+>
+> AND COMING TOMORROW...
+>
+> Automate your life with Claude Code in 50 min | Teresa Torres
+>
+> Subscribe to my YouTube for more extremely practical AI tutorials: https://t.co/Ggqaa3F11Z
+
+- **Tweet:** https://x.com/petergyang/status/2002402550570758283
+- **Link:** https://creatoreconomy.so/p/claude-code-beginners-tutorial-build-a-movie-app-in-15-minutes
+- **Filed:** [claude-code-tutorials-resources-peter-yang.md](./knowledge/articles/claude-code-tutorials-resources-peter-yang.md)
+- **What:** Peter Yang curates his entire collection of practical Claude Code tutorials (movies in 15 min, YouTube research agent in 15 min, activity finder in 35 min) plus interviews with Claude Code product and design leads. Includes upcoming content on automation workflows.
+
 ## @SahilBloom - The Empty Boat Mindset
 
 > Everyone needs to hear this…
