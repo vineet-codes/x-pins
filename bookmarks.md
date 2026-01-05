@@ -1,5 +1,43 @@
 # Monday, January 5, 2026
 
+## @hyperbrowser - Claude Code Docs Fetch Tool
+
+> Claude Code is already incredible.
+>
+> We gave it one more superpower.
+>
+> /docs fetch <url>
+>
+> Live docs from any site. Cached in your repo. Right in your terminal.
+> No more coding against outdated docs.
+>
+> Powered by Hyperbrowser MCP.
+
+- **Tweet:** https://x.com/hyperbrowser/status/2007916846931157386
+- **What:** Hyperbrowser introduces a new MCP-powered feature for Claude Code that enables live documentation fetching from any site, with caching in the repository for offline access. Eliminates the problem of coding against outdated documentation by providing fresh, terminal-accessible docs.
+
+## @0xDesigner - Claude Code Workplace Adoption Prediction
+
+> this is it. tomorrow is monday. everyone will return to work. their founder/ceo has been tinkering with claude code over the holidays and had an epiphany after experiencing vibe coding first hand. they will mandate that every employee, engineers and non-engineers, begin integrating claude code or something similar into their day to day work. knowledge work will never be the same.
+
+- **Tweet:** https://x.com/0xDesigner/status/2007945751758868750
+- **What:** 0xDesigner predicts a major workplace shift where CEOs who experimented with Claude Code over the holidays will mandate its adoption company-wide. The post reflects the transformative potential of "vibe coding" and AI-assisted development becoming standard practice across all knowledge workers.
+
+## @HighyieldHarry - New Year Motivation
+
+> New year, same intensity: https://t.co/6jj1vMR0EV
+
+- **Tweet:** https://x.com/HighyieldHarry/status/2007953316874203481
+- **What:** Motivational post from High Yield Harry sharing a video about maintaining intensity and focus as the new year begins. Emphasizes consistency and work ethic.
+
+## @shotguncaio - Article Share
+
+> https://t.co/wfoKbAnr8j
+
+- **Tweet:** https://x.com/shotguncaio/status/2007835956439609416
+- **Link:** https://x.com/i/article/2007213192775380997
+- **What:** Shotgun shares a linked tweet article. The article link requires authentication to view the full content.
+
 ## @EXM7777 - Twitter Article Link
 
 > https://t.co/yf5Lde67ga
