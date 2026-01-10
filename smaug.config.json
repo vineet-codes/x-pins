@@ -1,0 +1,15 @@
+{
+  "archiveFile": "./bookmarks.md",
+  "pendingFile": "./.state/pending-bookmarks.json",
+  "stateFile": "./.state/bookmarks-state.json",
+  "videosDir": "./videos",
+  "videosMetaFile": "./.state/videos.json",
+  "downloadVideos": true,
+  "timezone": "Asia/Calcutta",
+  "twitter": {
+    "authToken": "",
+    "ct0": ""
+  },
+  "autoInvokeClaude": true,
+  "claudeModel": "sonnet"
+}

@@ -28,6 +28,11 @@ const DEFAULT_CONFIG = {
   // State file for tracking last processed bookmark
   stateFile: './.state/bookmarks-state.json',
 
+  // Video download settings
+  videosDir: './videos',
+  videosMetaFile: './.state/videos.json',
+  downloadVideos: true,
+
   // Timezone for date formatting
   timezone: 'America/New_York',
 

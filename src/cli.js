@@ -10,6 +10,7 @@
  *   process  - Process pending bookmarks with Claude Code
  *   status   - Show current configuration and status
  *   init     - Create a config file (non-interactive)
+ *   ui       - Start the dashboard UI server
  */
 
 import { fetchAndPrepareBookmarks } from './processor.js';
@@ -283,6 +284,13 @@ async function main() {
       break;
     }
 
+    case 'ui': {
+      const port = parseInt(args.find(a => a.match(/^\d+$/)) || '3333', 10);
+      const { startServer } = await import('./api.js');
+      startServer(port);
+      break;
+    }
+
     case 'status': {
       const config = loadConfig();
 
@@ -330,6 +338,7 @@ Commands:
   fetch --media  EXPERIMENTAL: Include media attachments
   process        Show pending tweets
   status         Show current status
+  ui [port]      Start dashboard UI server (default: 3333)
 
 Examples:
   smaug setup                    # First-time setup
@@ -340,6 +349,8 @@ Examples:
   smaug fetch --source both      # Fetch from bookmarks AND likes
   smaug fetch --media            # Include photos/videos/GIFs (experimental)
   smaug fetch --force            # Re-process archived tweets
+  smaug ui                       # Start dashboard at http://localhost:3333
+  smaug ui 8080                  # Start dashboard on port 8080
 
 Config (smaug.config.json):
   "source": "bookmarks"    Default source (bookmarks, likes, or both)

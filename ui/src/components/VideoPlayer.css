@@ -1,0 +1,161 @@
+/* VideoPlayer Component Styles */
+
+.video-player {
+  position: relative;
+  background: black;
+  border-radius: var(--radius-md);
+  overflow: hidden;
+  aspect-ratio: 16 / 9;
+}
+
+.video-player video {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  display: block;
+  cursor: pointer;
+}
+
+/* Compact mode for inline display */
+.video-player-compact {
+  aspect-ratio: 16 / 9;
+  max-height: 200px;
+}
+
+.video-player-compact video {
+  object-fit: cover;
+}
+
+/* Play overlay */
+.video-player-overlay {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(0, 0, 0, 0.3);
+  cursor: pointer;
+}
+
+.video-player-play-btn {
+  width: 64px;
+  height: 64px;
+  border-radius: var(--radius-full);
+  background: rgba(255, 255, 255, 0.95);
+  color: #000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: none;
+  cursor: pointer;
+  transition: transform var(--transition-fast), background var(--transition-fast);
+}
+
+.video-player-play-btn:hover {
+  transform: scale(1.1);
+  background: white;
+}
+
+.video-player-compact .video-player-play-btn {
+  width: 48px;
+  height: 48px;
+}
+
+.video-player-compact .video-player-play-btn svg {
+  width: 24px;
+  height: 24px;
+}
+
+/* Controls bar */
+.video-player-controls {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  display: flex;
+  align-items: center;
+  gap: var(--space-3);
+  padding: var(--space-3) var(--space-4);
+  background: linear-gradient(transparent, rgba(0, 0, 0, 0.8));
+  opacity: 0;
+  transition: opacity var(--transition-base);
+}
+
+.video-player-controls.visible {
+  opacity: 1;
+}
+
+.video-player:hover .video-player-controls {
+  opacity: 1;
+}
+
+.video-player-control-btn {
+  background: none;
+  border: none;
+  color: white;
+  cursor: pointer;
+  padding: var(--space-1);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0.9;
+  transition: opacity var(--transition-fast);
+}
+
+.video-player-control-btn:hover {
+  opacity: 1;
+}
+
+.video-player-control-btn svg {
+  width: 20px;
+  height: 20px;
+}
+
+/* Progress bar */
+.video-player-progress {
+  flex: 1;
+  height: 4px;
+  background: rgba(255, 255, 255, 0.3);
+  border-radius: var(--radius-full);
+  cursor: pointer;
+  overflow: hidden;
+}
+
+.video-player-progress:hover {
+  height: 6px;
+}
+
+.video-player-progress-bar {
+  height: 100%;
+  background: var(--color-accent);
+  border-radius: var(--radius-full);
+  transition: width 0.1s linear;
+}
+
+/* Time display */
+.video-player-time {
+  font-family: var(--font-mono);
+  font-size: var(--text-xs);
+  color: rgba(255, 255, 255, 0.8);
+  white-space: nowrap;
+}
+
+/* Expand button */
+.video-player-expand {
+  margin-left: auto;
+}
+
+/* Compact controls */
+.video-player-compact .video-player-controls {
+  padding: var(--space-2) var(--space-3);
+}
+
+.video-player-compact .video-player-time {
+  display: none;
+}
+
+.video-player-compact .video-player-control-btn svg {
+  width: 16px;
+  height: 16px;
+}
+

@@ -11,6 +11,10 @@
     "fetch": "node src/cli.js fetch",
     "process": "node src/cli.js process",
     "start": "node src/cli.js",
+    "ui": "node src/cli.js ui",
+    "ui:dev": "cd ui && npm run dev",
+    "ui:build": "cd ui && npm run build",
+    "download-videos": "node src/download-videos.js",
     "test": "node --test"
   },
   "keywords": [
@@ -24,7 +28,9 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "dayjs": "^1.11.10"
+    "cors": "^2.8.5",
+    "dayjs": "^1.11.10",
+    "express": "^4.21.2"
   },
   "devDependencies": {},
   "engines": {
