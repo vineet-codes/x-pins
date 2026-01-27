@@ -1,3 +1,295 @@
+# Tuesday, January 27, 2026
+
+## @grundstromleo - Article Share
+
+> https://t.co/qSoXHt9yHw
+
+- **Tweet:** https://x.com/grundstromleo/status/2014796752982000066
+- **Link:** https://x.com/i/article/2014787563777916928
+- **What:** Leo Grundström shares a linked tweet article. The article link requires authentication to view the full content.
+
+## @zarazhangrui - Claude Teacher: A Better Way to Learn Through Projects
+
+> Add this paragraph to the https://t.co/CGO09Sihd0 file to turn Claude Code into Claude Teacher. Every project is a lesson to become more technical.
+>
+> "For every project, write a detailed FOR[yourname].md file that explains the whole project in plain language.
+>
+> Explain the technical architecture, the structure of the codebase and how the various parts are connected, the technologies used, why we made these technical decisions, and lessons I can learn from it (this should include the bugs we ran into and how we fixed them, potential pitfalls and how to avoid them in the future, new technologies used, how good engineers think and work, best practices, etc).
+>
+> It should be very engaging to read; don't make it sound like boring technical documentation/textbook. Where appropriate, use analogies and anecdotes to make it more understandable and memorable."
+
+- **Tweet:** https://x.com/zarazhangrui/status/2015057205800980731
+- **Filed:** [claude-teacher-project-documentation.md](./knowledge/articles/claude-teacher-project-documentation.md)
+- **What:** Zara Zhang proposes a systematic approach to learning through Claude Code projects by creating detailed FOR[yourname].md documentation files. Rather than just shipping code, this method transforms each project into a comprehensive learning resource that covers technical architecture, codebase structure, technology choices, decision rationale, lessons learned (including bugs and solutions), and best practices. The documentation should be engaging and use analogies/anecdotes rather than dry technical language.
+
+## @marikgoldstein - Defending Quadratic Attention
+
+> all of us, defending quadratic attention https://t.co/8IZAhShJnF
+
+- **Tweet:** https://x.com/marikgoldstein/status/2014120886295507105
+- **Media:** Video/meme content
+- **What:** Mark Goldstein shares a humorous video/meme about defending quadratic attention mechanisms in AI models, likely a commentary on current debates in the ML community about attention efficiency and trade-offs.
+
+## @techfrenAJ - Clawdbot Deployment on AWS Free Tier
+
+> Deployed @clawdbot  in under 5 minutes on AWS free tier.
+>
+> Open source personal AI. Full system access.
+> Interfaces through WhatsApp, Discord, Telegram.
+>
+> People are rigging it to their Ray-Bans for real-time price comparisons.
+>
+> One command. That's it. https://t.co/2u07nLvY14
+
+- **Tweet:** https://x.com/techfrenAJ/status/2014934471095812547
+- **Media:** Video demonstration
+- **What:** Tech Friend AJ demonstrates deploying Clawdbot, an open-source personal AI assistant, in under 5 minutes on AWS free tier. The system provides full system access through multiple interfaces (WhatsApp, Discord, Telegram) and shows practical use cases like people integrating it with Ray-Bans for real-time price comparisons. Highlights the simplicity of deployment and versatility of the tool.
+
+## @13yearoldvc - Twitter Article Link
+
+> https://t.co/nAZXzPj2Gw
+
+- **Tweet:** https://x.com/13yearoldvc/status/1950276106323664949
+- **Link:** https://x.com/i/article/1950273717390749696
+- **What:** Tweet sharing a linked article. The article link requires authentication to view full content.
+
+## @rincidium - Premium OG Image Design Prompt
+
+> Create a premium open-graph hero image for [BRAND]:
+>
+> A wide horizontal layout (16:9 ratio) designed for social sharing, website headers, and marketing collateral. This is a high-end designer mockup presentation suitable for a branding portfolio or product launch. The focus is on clarity, balance, negative space and visual confidence.
+>
+> LAYOUT STRUCTURE: The composition is split into two clear zones with generous breathing room...
+>
+> [Comprehensive guidance on LEFT ZONE (logo and headline), RIGHT ZONE (interface panel), NEGATIVE SPACE, COLOR & STYLE, MOOD & FEEL, and WHAT TO AVOID...]
+
+- **Tweet:** https://x.com/rincidium/status/2015930122776564113
+- **What:** Ray shares a detailed, production-ready prompt for generating premium OG images with specific guidance on composition (two-zone layout with left text and right interface panel), styling (flat design, subtle shadows, modern sans-serif), and mood (clean SaaS confidence). Useful template for consistent social sharing imagery across products.
+
+## @leerob - Automating Customer Feedback Loops with AI Agents
+
+> Just a year later, this is now dramatically easier if you're willing to put in the work:
+>
+> 1. Automate sending all customer feedback to a coding agent to try and fix the issue.
+> 2. Give the agent high quality data sources (logs, errors, etc) so it can dig further to reproduce.
+> 3. Give the agent a computer so it can test and validate its work.
+> 4. Build a workflow to automatically follow up with the customer over email or DM once the error is fixed (no forgetting!)
+>
+> Even the ingestion process is easier now. You can dump a single tweet into a Slack channel and have AI enrich the report, save the customer details, and start fixing it immediately.
+
+- **Tweet:** https://x.com/leerob/status/2015797209602642264
+- **Quoted:** https://x.com/leerob/status/1891208649567088717
+- **What:** Lee Robinson describes an evolved customer support workflow powered by AI agents that automatically triages feedback, reproduces issues with access to logs/errors, validates fixes, and closes feedback loops with customers. The speed of issue resolution is now dramatically faster due to agent automation handling problem diagnosis and testing.
+
+## @karpathy - AI Coding Agent Observations: The Phase Shift in Software Engineering
+
+> A few random notes from claude coding quite a bit last few weeks.
+>
+> Coding workflow: 80% agent coding and 20% edits in December (vs 80% manual + 20% autocomplete in November). Programming in English is the biggest change to workflow in 2 decades.
+>
+> IDEs/agent swarms/fallability: Models still make subtle conceptual errors and wrong assumptions. Need to watch carefully but net huge improvement. Mistakes are no longer syntax errors but logic errors that require human oversight.
+>
+> Tenacity: Agents never get demoralized, they just keep trying. Stamina becomes a core competitive advantage with LLMs in hand.
+>
+> Speedups & Leverage: The main effect is expansion - coding more and doing more things that wouldn't have been worth coding before. Leverage comes from giving agents success criteria vs imperative instructions.
+>
+> Fun: Programming feels more fun with drudgery removed, though experience splits engineers based on those who liked coding vs those who liked building.
+>
+> Atrophy: Already noticing loss of manual coding ability. Generation and discrimination (reading) are different capabilities.
+>
+> Slopacolypse: Expecting 2026 to be the year of low-quality AI-generated content across all platforms.
+>
+> [Questions about 10X engineers, generalists vs specialists, future of LLM coding...]
+
+- **Tweet:** https://x.com/karpathy/status/2015883857489522876
+- **What:** Andrej Karpathy synthesizes his recent experience coding with Claude agents across December 2025, documenting a phase shift in engineering practice. Key observations: rapid shift from manual coding to agent-assisted workflows, persistent need for human oversight despite agent improvements, unexpected psychological benefits (fun, courage), and looming risks (skill atrophy, content degradation). Positions 2026 as the inflection year where AI coding capability has crossed a coherence threshold that changes professional practice.
+
+## @boringmarketer - High-Converting Email Sequence Framework
+
+> how to structure high converting email sequences (copy this / give it to AI)
+
+- **Tweet:** https://x.com/boringmarketer/status/2015813211245719760
+- **Media:** Image/visual guide included in tweet
+- **What:** The Boring Marketer shares a practical framework for constructing email sequences that drive conversions. Intended as a template to give directly to AI tools for email generation, making it accessible for non-copywriters to create effective marketing sequences.
+
+## @bloggersarvesh - Claude Code for SEO Automation
+
+> THIS IS IT.
+>
+> The most important video you'll watch this year.
+>
+> Claude Cowork is an absolute game changer for SEO!
+>
+> Your own 24/7 AI SEO assistant.
+>
+> In this masterclass, I cover how Claude code works for SEO, how to set it up, and why it will change SEO forever:
+
+- **Tweet:** https://x.com/bloggersarvesh/status/2015460262967705909
+- **Media:** Video link
+- **What:** Sarvesh Shrivastava promotes a video masterclass on using Claude Code for SEO automation. Claims Claude Code enables 24/7 AI-assisted SEO work and positions it as transformative for the SEO profession. Covers setup, methodology, and implications for future SEO workflows.
+
+## @Tim_Denning - Twitter Article Share
+
+> https://t.co/MMbPN1qrJO
+
+- **Tweet:** https://x.com/Tim_Denning/status/2015003038088573403
+- **What:** Tim Denning shares a linked tweet/article. Limited context from the bookmark itself.
+
+## @NickSpisak_ - Twitter Article Share
+
+> https://t.co/tvLAyCkoTY
+
+- **Tweet:** https://x.com/NickSpisak_/status/2015144613594415164
+- **What:** Nick Spisak shares a linked tweet/article. Limited context from the bookmark itself.
+
+## @jungleincxrp - The Old Way of Running a Company is Dead: Brian Armstrong's AI Agent Revolution
+
+> The "Old Way" of running a company is dead. 💀
+>
+> Brian Armstrong just revealed how he's using AI agents to run @Coinbase, and it's a glimpse into the future of leadership.
+>
+> 1. Real-Time Monitoring 👁️
+> No more waiting for "quarterly reviews." Brian uses AI agents to synthesize Slack and emails in real-time. He can feel the "vibration" of the entire company and spot bottlenecks before they become crises.
+>
+> 2. The RAPID-D Framework 🤖
+> At Coinbase, AI has a seat at the decision table. Their "RAPID-D" system uses agents to debate strategy, challenge assumptions, and probe for weaknesses in every major proposal. The AI isn't just a tool; it's a participant.
+>
+> 3. CEO Coaching 📈
+> Ever wonder if you're focusing on the wrong thing? Brian uses AI to audit his own schedule. The AI compares his daily actions against the company's top goals and tells him exactly where he's wasting time.
+>
+> 4. Adapt or Exit 🚪
+> The mandate was simple: "Learn AI coding in 7 days or you're out."
+> Armstrong fired engineers who refused to onboard. Result? 1/3 of Coinbase code is now AI-generated, headed for 50%.
+>
+> The Bottom Line:
+> We are moving from "companies that use AI" to "Agentic Organizations."
+> The information lag is being set to zero. ⚡
+
+- **Tweet:** https://x.com/jungleincxrp/status/2015167474317357388
+- **What:** Jungle Inc Crypto News thread detailing Brian Armstrong's approach to running Coinbase with AI agents. Covers real-time monitoring via AI synthesis of Slack/emails, the RAPID-D decision framework where AI participates in strategy debates, CEO schedule optimization, and mandatory AI coding adoption. Highlights the shift from companies using AI to "Agentic Organizations" with near-zero information lag. 1/3 of Coinbase's codebase is now AI-generated with plans to reach 50%.
+
+## @jasminejpark - Masterclass on How to Talk So People Actually Listen
+
+> Instead of watching a 2-hour movie, read this masterclass on how to talk so people actually listen
+> https://t.co/n8Lr5VCTrx
+>
+> *Quoting @thedankoe:* https://t.co/kfa0CkvdgU
+
+- **Tweet:** https://x.com/jasminejpark/status/2015109106005430458
+- **Quoted:** https://x.com/thedankoe/status/2011827303962329458
+- **What:** Jasmine Park shares a quote tweet from DAN KOE about communication and persuasion. Frames it as a valuable masterclass alternative to watching long videos. The quoted thread appears to contain strategic advice on effective communication.
+
+## @lennysan - Awesome Talk Response
+
+> This is an awesome talk
+>
+> *Quoting @jenny_wen:* this talk was the first i did that was really polarizing. that was... kind of the point though!
+>
+> to me it shows a bifurcation in the industry — it was either a confirmation of something you were already feeling, or a new, deeply uncomfortable thing.
+>
+> https://t.co/GAicljLb6y
+
+- **Tweet:** https://x.com/lennysan/status/2015193835350224961
+- **Quoted:** https://x.com/jenny_wen/status/2014479445738893649
+- **What:** Lenny Rachitsky endorses a talk by Jenny Wen as genuinely great. Jenny describes her talk as intentionally polarizing, acting as either confirmation for existing beliefs or introducing deeply uncomfortable new perspectives. Indicates the content covers industry trends or insights with significant implications.
+
+## @13yearoldvc - Twitter Article Link
+
+> https://t.co/nAZXzPj2Gw
+
+- **Tweet:** https://x.com/13yearoldvc/status/1950276106323664949
+- **Link:** https://x.com/i/article/1950273717390749696
+- **What:** Tweet sharing a linked article. The article link requires authentication to view full content.
+
+## @techfrenAJ - Clawdbot Deployment on AWS Free Tier
+
+> Deployed @clawdbot  in under 5 minutes on AWS free tier.
+>
+> Open source personal AI. Full system access.
+> Interfaces through WhatsApp, Discord, Telegram.
+>
+> People are rigging it to their Ray-Bans for real-time price comparisons.
+>
+> One command. That's it. https://t.co/2u07nLvY14
+
+- **Tweet:** https://x.com/techfrenAJ/status/2014934471095812547
+- **Media:** Video demonstration
+- **What:** Tech Friend AJ demonstrates deploying Clawdbot, an open-source personal AI assistant, in under 5 minutes on AWS free tier. The system provides full system access through multiple interfaces (WhatsApp, Discord, Telegram) and shows practical use cases like people integrating it with Ray-Bans for real-time price comparisons. Highlights the simplicity of deployment and versatility of the tool.
+
+## @marikgoldstein - Defending Quadratic Attention
+
+> all of us, defending quadratic attention https://t.co/8IZAhShJnF
+
+- **Tweet:** https://x.com/marikgoldstein/status/2014120886295507105
+- **Media:** Video/meme content
+- **What:** Mark Goldstein shares a humorous video/meme about defending quadratic attention mechanisms in AI models, likely a commentary on current debates in the ML community about attention efficiency and trade-offs.
+
+## @zarazhangrui - Claude Teacher: A Better Way to Learn Through Projects
+
+> Add this paragraph to the https://t.co/CGO09Sihd0 file to turn Claude Code into Claude Teacher. Every project is a lesson to become more technical.
+>
+> "For every project, write a detailed FOR[yourname].md file that explains the whole project in plain language.
+>
+> Explain the technical architecture, the structure of the codebase and how the various parts are connected, the technologies used, why we made these technical decisions, and lessons I can learn from it (this should include the bugs we ran into and how we fixed them, potential pitfalls and how to avoid them in the future, new technologies used, how good engineers think and work, best practices, etc).
+>
+> It should be very engaging to read; don't make it sound like boring technical documentation/textbook. Where appropriate, use analogies and anecdotes to make it more understandable and memorable."
+
+- **Tweet:** https://x.com/zarazhangrui/status/2015057205800980731
+- **Filed:** [claude-teacher-project-documentation.md](./knowledge/articles/claude-teacher-project-documentation.md)
+- **What:** Zara Zhang proposes a systematic approach to learning through Claude Code projects by creating detailed FOR[yourname].md documentation files. Rather than just shipping code, this method transforms each project into a comprehensive learning resource that covers technical architecture, codebase structure, technology choices, decision rationale, lessons learned (including bugs and solutions), and best practices. The documentation should be engaging and use analogies/anecdotes rather than dry technical language.
+
+## @grundstromleo - Article Share
+
+> https://t.co/qSoXHt9yHw
+
+- **Tweet:** https://x.com/grundstromleo/status/2014796752982000066
+- **Link:** https://x.com/i/article/2014787563777916928
+- **What:** Leo Grundström shares a linked tweet article. The article link requires authentication to view the full content.
+
+---
+
+## @ShivAroor - IAF Frontline Jets Combat Footage
+
+> Sweet! The IAF just dropped this video that has rare/first footage of their frontline jets armed with all their hurt, that may/may not have been used during Op S. 👀
+
+- **Tweet:** https://x.com/ShivAroor/status/2015746915439403449
+- **What:** Shiv Aroor shares a rare video of Indian Air Force frontline fighters carrying full weapons loads, with implications of their use in recent military operations.
+
+## @EdKrassen - AOC on Alex Pretti ICE Murder
+
+> BREAKING: @AOC just completely went off on Trump after ICE murdered Alex Pretti.
+>
+> "Donald Trump [is] accusing a Veteran Affairs ICU nurse (Alex Pretti) as being a terrorist against the United States. A man who was treating services members to our country, who was dedicating his life to serving Americans. Who in his final act on this earth was helping a woman pushed to the ground. And they are calling him a Domestic Terrorist, in order to defend their gross abuse of power, their absolute breaching of the law and in order to precipitate greater conflict."
+
+- **Tweet:** https://x.com/EdKrassen/status/2015200479215526323
+- **What:** Ed Krassenstein reports on AOC's response to the death of Alex Pretti, a VA nurse killed by ICE. She criticizes Trump's administration for weaponizing terrorist accusations against a healthcare worker who died helping others.
+
+## @gregisenberg - AI Work Economics: $10k/hr Jobs
+
+> In an AI world, most work becomes cheap and fast except the $10k/hr
+>
+> Your job is to protect the green box at all costs.
+
+- **Tweet:** https://x.com/gregisenberg/status/2015133380245938417
+- **What:** Greg Isenberg illustrates how AI democratizes most work (making it cheap and fast) but concentrates value on rare, high-level expertise. The post suggests strategy is to focus on becoming that protected $10k/hour-level professional.
+
+## @NoahEpstein_ - Article Share
+
+> https://x.com/i/article/2015069298495041536
+
+- **Tweet:** https://x.com/NoahEpstein_/status/2015073824799371370
+- **What:** Noah Epstein shares a Twitter article link. The full content requires authentication to view.
+
+## @sundeep - Great Post by Noah Epstein
+
+> Great post by @NoahEpstein_ (get to the bottom of all the hype)
+>
+> *Quoting @NoahEpstein_:* https://x.com/i/article/2015069298495041536
+
+- **Tweet:** https://x.com/sundeep/status/2015179722800693251
+- **Quoted:** https://x.com/NoahEpstein_/status/2015073824799371370
+- **What:** Sunny Madra quotes Noah Epstein's article, praising it as valuable content that cuts through hype and provides foundational understanding.
+
 # Monday, January 5, 2026
 
 ## @nabeelqu - Tight Deadlines and Shipping Fast
