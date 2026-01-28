@@ -1,3 +1,124 @@
+# Wednesday, January 28, 2026
+
+## @levelsio - Claude AI: Positioning as Premium App for Creatives
+
+> They're positioning themselves as the AI app for high IQ and creative people with taste
+>
+> So smart because ChatGPT kinda feels like it has become the AI app for normies now
+>
+> First active market positioning I see in the big AI apps to date
+>
+> *Quoting @venturetwins:* Claude is going for the girls ✨
+>
+> My IG and TikTok feeds have been flooded with sponsored Claude videos from one demographic of creator - artsy girls who can't code.
+>
+> I saw so many of them that I decided to start saving them down (excerpts ⬇️). There's definitely a pattern!
+
+- **Tweet:** https://x.com/levelsio/status/2016317127293014480
+- **Quoted:** https://x.com/venturetwins/status/2016007023184511077
+- **What:** Rodrigo Bataller observes Claude AI's market positioning as a premium tool for "high IQ" creative professionals with taste, deliberately differentiating from ChatGPT's mainstream perception. Notes sponsored Claude content targeting "artsy girls who can't code" on IG/TikTok as a deliberate demographic focus strategy - the first intentional market segmentation he's seen among major AI applications.
+
+## @TheFigen_ - [Good Trick] Development Technique
+
+> Good trick.
+
+- **Tweet:** https://x.com/TheFigen_/status/2016247781103472748
+- **Media:** Video demonstration
+- **What:** Short video post sharing a helpful development or design trick. Requires transcription for full context.
+
+## @diegohaz - CSS corner-shape Property Unlocks New UI Design Patterns
+
+> The new corner-shape CSS property unlocks exciting new UI patterns.
+>
+> corner-shape: bevel round;
+> border-radius: 1em 0 / 3em 0;
+
+- **Tweet:** https://x.com/diegohaz/status/2016364636875186658
+- **Media:** Video demonstration
+- **What:** Diego Hazaña highlights the new CSS corner-shape property as enabling novel UI design patterns. Shows practical syntax combining corner-shape with border-radius values for creative visual effects.
+
+## @jacobrodri_ - Period Tracker App Generates $17.1M Monthly Revenue
+
+> this period tracker app i've seen my girlfriend use for years makes $17.1M a month...
+>
+> i'm a man but that won't stop me from building an app in this niche
+
+- **Tweet:** https://x.com/jacobrodri_/status/2016201455137648910
+- **Media:** Photo/data visualization
+- **What:** Jacob Rodri highlights the massive profitability of period/menstrual tracking applications ($17.1M/month) and signals entrepreneurial interest in building competing products despite being male and outside the primary user demographic. Reveals unexpected market opportunity in consumer health apps.
+
+## @DilumSanjaya - Vibe Coded Space Exploration Game Ship Selection UI
+
+> Vibe coded a ship selection UI for a space exploration game
+>
+> 3D assets
+> Nano Banana + Midjourney → Hunyuan3D
+> UI
+> Nano Banana → Gemini Pro
+>
+> More details ↓
+
+- **Tweet:** https://x.com/DilumSanjaya/status/2016193959408836932
+- **Media:** Video demonstration
+- **What:** Dilum Sanjaya demonstrates "vibe coding" a ship selection interface for a space game using modern generative AI tools. Used Nano Banana + Midjourney for 3D asset generation via Hunyuan3D, and Nano Banana + Gemini Pro for the UI layer. Showcases practical integration of multiple AI tools in game development workflow.
+
+## @rohukrs - Job Search Through Storytelling and Product Growth
+
+> I'm treating my job search like a growth problem, and I've got 45 days to crack it.
+>
+> Instead of sending a resume, here's a 50-second video of my work.
+>
+> If you're looking to grow your product through storytelling and filmmaking, let's talk?
+
+- **Tweet:** https://x.com/rohukrs/status/2015830606463271337
+- **Media:** Video demonstration
+- **What:** Rohit Kumar shares an innovative job search approach using a 50-second video showcasing his storytelling and filmmaking work instead of a traditional resume. Frames his skills as a solution for product growth through visual storytelling, with a 45-day window to demonstrate value.
+
+## @howdymerry - AI Value Chain Portfolio Strategy
+
+> the portfolio i built for myself after mapping out the ai value chain in the essay below is up 10-25% today
+>
+> it is your greatest advantage to deeply understand the generational capital rotation into physical infrastructure that powers intelligence
+>
+> then buy leveraged ETFs
+
+- **Tweet:** https://x.com/howdymerry/status/2016276283953406378
+- **Quoted:** https://x.com/howdymerry/status/2014818226572792082
+- **What:** Mary discusses her investment portfolio strategy based on deeply understanding the AI value chain and capital rotation into physical infrastructure that powers AI. Reports 10-25% returns and advocates for leveraged ETFs as a way to profit from this shift.
+
+## @ethereum - ERC-8004 Standard Enables AI Agent Interoperability
+
+> ERC-8004 is going live on mainnet soon.
+>
+> By enabling discovery and portable reputation, ERC-8004 allows AI agents to interact across organizations ensuring credibility travels everywhere.
+>
+> This unlocks a global market where AI services can interoperate without gatekeepers.
+
+- **Tweet:** https://x.com/ethereum/status/2016203577203818723
+- **Quoted:** https://x.com/DavideCrapis/status/2016197756142899638
+- **What:** Ethereum Foundation announces ERC-8004 standard coming to mainnet, positioning it as enabling decentralized AI-to-AI interactions with portable reputation. Frames Ethereum as the settlement layer for AI agent credentials and cross-organization interoperability.
+
+## @DavideCrapis - Ethereum as AI-to-AI Settlement Infrastructure
+
+> Ethereum is in the unique position to be the platform that secures and settles AI-to-AI interactions.
+>
+> The ERC-8004 standard is coming to mainnet.
+
+- **Tweet:** https://x.com/DavideCrapis/status/2016197756142899638
+- **Media:** Video demonstration
+- **What:** Davide Crapis positions Ethereum as the foundational infrastructure for securing and settling AI-to-AI transactions through the upcoming ERC-8004 standard. Emphasizes Ethereum's unique role in the AI agent economy.
+
+## @bloggersarvesh - Claude Cowork as SEO Automation Cheat Code
+
+> Claude Cowork is a literal CHEAT CODE for SEO.
+>
+> I could take ANY local service business to $100k/month in 90 days using just Claude Cowork.
+>
+> Here's exactly how I'd do it:
+
+- **Tweet:** https://x.com/bloggersarvesh/status/2015778948874117464
+- **What:** Sarvesh Shrivastava makes a bold claim about Claude Cowork's potential for SEO automation, claiming it could scale any local service business to $100k/month in 90 days. Promises to reveal his methodology in a thread.
+
 # Tuesday, January 27, 2026
 
 ## @grundstromleo - Article Share
