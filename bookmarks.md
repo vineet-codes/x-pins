@@ -1,3 +1,71 @@
+# Friday, January 30, 2026
+
+## @ZReitano - Twitter Article Bookmark
+
+> https://t.co/bnxvBTWk45
+
+- **Tweet:** https://x.com/ZReitano/status/2016862026501378535
+- **Link:** https://x.com/i/article/2015803862930587648
+- **What:** Z Reitano bookmarks a tweet containing an article reference. Content pending investigation of the expanded article URL.
+
+## @SteveLovesAmmo - Humorous Video
+
+> I laugh every time I watch this.
+
+- **Tweet:** https://x.com/SteveLovesAmmo/status/2016617931036074373
+- **Media:** Video (0:38 duration)
+- **What:** Steve shares a humorous video that he finds repeatable entertaining. Video requires transcription for full context.
+
+## @WallStreetApes - Ilhan Omar Disclosure and Business Allegations
+
+> 6 days ago new disclosures show Ilhan Omar went from $42 in her bank account to $25 million in 1 year
+>
+> 1 day ago Ilhan Omar's wine business is exposed as fake making $5 million
+>
+> Today Ilhan Omar gets "attacked" on camera
+>
+> They think we're idiots. Jussie Smollett 2.0
+
+- **Tweet:** https://x.com/WallStreetApes/status/2016410811024216116
+- **Media:** Video (1:58 duration)
+- **What:** Wall Street Apes posts a critical timeline alleging Ilhan Omar's rapid wealth accumulation, fraudulent wine business, and staged attack incident. Video requires transcription for full content analysis.
+
+## @HustleBitch_ - Candace Owens Leaked Erika Kirk Video
+
+> 🚨 HOLY SH*T! CANDACE OWENS JUST LEAKED AN ERIKA KIRK VIDEO PEOPLE WEREN'T SUPPOSED TO SEE
+>
+> WATCH CLOSELY.
+>
+> A private Zoom call leaked by Candace Owens shows Erika Kirk addressing TPUSA staff just 5½ days after Charlie Kirk's public assassination.
+>
+> The call opens with her smiling, reacting to Zoom thumbs up emojis.
+>
+> She jokes about the meeting being "a little informal," says she never liked Zoom, then tells TPUSA staff:
+> • "Everyone grieves differently - if someone's acting weird, don't read into it"
+> • Compares grief to kids melting down on a plane 15 minutes before landing
+> • Calls the moment "very private," then shares it anyway
+> • Ends by saying she feels "so blessed and honored"
+>
+> People aren't just reacting to what was said - they're reacting to how it was said… and how soon.
+>
+> What else do you notice in the video?
+
+- **Tweet:** https://x.com/HustleBitch_/status/2016723925355409612
+- **Media:** Video (2:55 duration)
+- **What:** HustleBitch shares a controversial leaked Zoom call video of Erika Kirk (Charlie Kirk's family) posted by Candace Owens. Claims show unusual demeanor and messaging shortly after a crisis event. Video requires full transcription.
+
+## @Geiger_Capital - Alleged Misconduct of Protest-Related Death Victim
+
+> This guy didn't deserve to die…
+>
+> However it's now clear that he wasn't a caring bystander or a "legal observer". He was another lunatic spitting on officers and attacking their vehicles for days.
+
+- **Tweet:** https://x.com/Geiger_Capital/status/2016640876865327169
+- **Quoted:** https://x.com/RyanSaavedra/status/2016611647553413126
+- **What:** Geiger Capital comments on a reported incident involving Alex Pretti, offering context that complicates a BBC-documented death. Quotes Ryan Saavedra's post about BBC footage allegedly showing the individual spitting at federal law enforcement and attacking vehicles over multiple days. Suggests the narrative of innocent bystander is inaccurate.
+
+---
+
 # Wednesday, January 28, 2026
 
 ## @levelsio - Claude AI: Positioning as Premium App for Creatives
