@@ -1,5 +1,68 @@
 # Sunday, February 1, 2026
 
+## @patrick_oshag - Gokul on Building Durable AI Products and Ads Businesses
+> .@gokulr is one of the most prolific product builders and investors of the last 20 years.
+>
+> He helped build the core ads and product businesses at Google, Facebook, Square, and DoorDash, working directly with many of this generation's best founders and CEOs. He's also invested in more than 700 companies giving him an unusually broad view into how products are built and scaled.
+>
+> Gokul has an incredible ability to give precise and prescriptive advice on how to build products, particularly in AI...
+
+- **Tweet:** https://x.com/patrick_oshag/status/2016910574823542864
+- **Video:** 2016910574823542864.mp4 (76:29)
+- **What:** Extended interview with Gokul Rajaram discussing product building principles, AI applications, judgment as a future-proof skill, and lessons from working with Google, Facebook, Square, and DoorDash leadership.
+- **Status:** Needs transcript
+
+---
+
+## @patrick_oshag - Three Ways Ad Businesses Make Money
+> Gokul explains the only three ways ads businesses make money, and why ChatGPT may be more valuable than Google and Facebook:
+>
+> "One, you need to own a very coveted group of users...ChatGPT, their combination of intent and identity data is unparalleled."
+
+- **Tweet:** https://x.com/patrick_oshag/status/2017260292065870292
+- **Quoted:** https://x.com/patrick_oshag/status/2016910574823542864
+- **Video:** 2017260292065870292.mp4 (2:28)
+- **What:** Video excerpt highlighting Gokul's framework for ad business models: owned user audience, outcome delivery, or exclusive supplier position. Discusses ChatGPT's competitive advantage.
+- **Status:** Needs transcript
+
+---
+
+## @thepatwalls - Attitude and Effort in the Age of AI
+> As the AI takes over, talent and intelligence become essentially worthless.
+>
+> There are only two things you can control in life: your attitude and your effort.
+>
+> In other words, try hard. Try really hard.
+
+- **Tweet:** https://x.com/thepatwalls/status/2017424414133059771
+- **Video:** 2017424414133059771.mp4 (0:40)
+- **What:** Brief motivational clip emphasizing that in an AI-driven world, the controllable factors are attitude and sustained effort, not innate talent or intelligence.
+- **Status:** Needs transcript
+
+---
+
+## @Cernovich - Prank or Significant Event
+> If it's not a prank / stunt, then today is one of the most significant of our lifetime.
+>
+> *Quoting @Cernovich:* I sincerely hope it's a prank or viral marketing stunt.
+
+- **Tweet:** https://x.com/Cernovich/status/2017301245094961340
+- **Quoted:** https://x.com/Cernovich/status/2017300150398443786
+- **What:** Commentary expressing concern about an unspecified event of potential historical significance, hoping it to be a stunt rather than real.
+
+---
+
+## @gmoneyNFT - AI Self-Organization Discussion
+> so we're fcked
+>
+> *Quoting @karpathy:* What's currently going on at @moltbook is genuinely the most incredible sci-fi takeoff-adjacent thing I have seen recently. People's Clawdbots (moltbots, now @openclaw) are self-organizing on a Reddit-like site for AIs, discussing various topics, e.g. even how to speak privately.
+
+- **Tweet:** https://x.com/gmoneyNFT/status/2017304806507901358
+- **Quoted:** https://x.com/karpathy/status/2017296988589723767
+- **What:** Reaction tweet to Andrej Karpathy's observation of AI agents self-organizing and communicating on a platform without direct human control.
+
+---
+
 ## @Scobleizer - How can you not be excited to be alive today?
 > How can you not be excited to be alive today?
 >
