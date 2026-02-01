@@ -1,4 +1,109 @@
+# Sunday, February 1, 2026
+
+## @Scobleizer - How can you not be excited to be alive today?
+> How can you not be excited to be alive today?
+>
+> Wow!
+>
+> *Quoting @viccpoes:* beta is out!
+
+- **Tweet:** https://x.com/Scobleizer/status/2016269855390085456
+- **Quoted:** https://x.com/viccpoes/status/2016213172269810021
+- **What:** Enthusiastic quote tweet responding to a product beta launch announcement.
+
+---
+
+## @jaynitx - Naval Ravikant on Productizing Yourself
+> Naval Ravikant literally explained how to productize yourself to escape the rat race:
+
+- **Tweet:** https://x.com/jaynitx/status/2017570618561151166
+- **Video:** 2017570618561151166.mp4 (4:22)
+- **What:** Video excerpt of Naval Ravikant discussing how to productize yourself as a strategy to escape traditional employment.
+- **Status:** Needs transcript
+
+---
+
+## @nikitabier - Product Management Philosophy
+> Product management is the art of the writing the least amount of code for the greatest benefit to your users.
+
+- **Tweet:** https://x.com/nikitabier/status/2017790464884457863
+- **What:** A concise definition of product management emphasizing efficiency and user benefit over code volume.
+
+---
+
+## @bcherny - Claude Code Tips from the Creator
+> I'm Boris and I created Claude Code. I wanted to quickly share a few tips for using Claude Code, sourced directly from the Claude Code team. The way the team uses Claude is different than how I use it. Remember: there is no one right way to use Claude Code -- everyones' setup is different. You should experiment to see what works for you!
+
+- **Tweet:** https://x.com/bcherny/status/2017742741636321619
+- **What:** Boris Cherny sharing tips and perspectives on using Claude Code, emphasizing that different approaches work for different people.
+
+---
+
+## @pbteja1998 - Twitter Article Link
+> https://t.co/V6XZfv5UYS
+
+- **Tweet:** https://x.com/pbteja1998/status/2017662163540971756
+- **What:** Simple bookmark of a Twitter article link, no additional context provided.
+
+---
+
 # Friday, January 30, 2026
+
+## @AndrewYNg - Agent Skills with Anthropic Course
+> Important new course: Agent Skills with Anthropic, built with @AnthropicAI and taught by @eschoppik!
+>
+> Skills are constructed as folders of instructions that equip agents with on-demand knowledge and workflows. This short course teaches you how to create them following best practices.
+
+- **Tweet:** https://x.com/AndrewYNg/status/2016564878098780245
+- **Link:** https://www.deeplearning.ai/short-courses/agent-skills-with-anthropic/
+- **Filed:** [agent-skills-with-anthropic](./knowledge/articles/agent-skills-with-anthropic.md)
+- **What:** Short course teaching how to build skills for agents, including custom skills for code generation, data analysis, research, and workflows. Demonstrates building once and deploying across Claude Code, Claude API, and Claude Agent SDK.
+- **Status:** Needs transcript (video embedded)
+
+---
+
+## @GabbbarSingh - Bessent India Threat Commentary
+> Look at Bessent usually the one who's very articulate in his threats to India, literally crying as if he was cheated on. And is at a loss of words. LOL
+
+- **Tweet:** https://x.com/GabbbarSingh/status/2016713190604984443
+- **Video:** 2016713190604984443.mp4 (1:30)
+- **What:** Political commentary video reacting to Bessent's statements about India. The tweet criticizes his articulation and emotional response.
+- **Status:** Needs transcript
+
+---
+
+## @KanekoaTheGreat - Alex Pretti Law Enforcement Incident
+> Alex Pretti was recorded spitting on and assaulting federal law enforcement and then kicking the tail light of their vehicle on January 13.
+>
+> Mostly peaceful legal observer?
+
+- **Tweet:** https://x.com/KanekoaTheGreat/status/2016639942605345140
+- **Video:** 2016639942605345140.mp4 (2:55)
+- **What:** Video documentation of an incident where Alex Pretti assaulted federal law enforcement officers. The sarcastic quote questions the characterization as a "mostly peaceful legal observer."
+- **Status:** Needs transcript
+
+---
+
+## @GeminiApp - Full-Length Mock JEE Main Tests
+> Building on last week's announcement of practice SATs in Gemini, you can now also take full-length mock JEE Main tests in Gemini at no cost.
+
+- **Tweet:** https://x.com/GeminiApp/status/2016566698305081386
+- **What:** Announcement of free full-length mock JEE Main test availability in Google Gemini AI. This builds on earlier practice SAT features added to the platform.
+
+---
+
+## @VittoStack - ERC-8004 Mainnet Launch
+> ERC-8004 is coming to mainnet tomorrow.
+>
+> This is a great time to read this article.
+>
+> *Quoting @VittoStack:* https://t.co/2uI4EiqNxg
+
+- **Tweet:** https://x.com/VittoStack/status/2016441955643801935
+- **Quoted:** https://x.com/VittoStack/status/2009637427397193765
+- **What:** Announcement of ERC-8004 (Ethereum Request for Comment) coming to mainnet with a recommendation to read a related article. The quoted tweet appears to contain the article link.
+
+---
 
 ## @svpino - Research Agent Demonstration
 > You won't ever look at research the same way ever again.
