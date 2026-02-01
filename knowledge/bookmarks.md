@@ -1,5 +1,101 @@
 # Sunday, February 1, 2026
 
+## @Cloudflare - Moltworker: Self-Hosted AI Agent
+> Moltworker is a middleware Worker and adapted scripts that allows running Moltbot (formerly Clawdbot) on Cloudflare's Sandbox SDK and our Developer Platform APIs. So you can self-host an AI personal assistant — without any new hardware.
+
+- **Tweet:** https://x.com/Cloudflare/status/2016875256393175130
+- **Link:** https://blog.cloudflare.com/moltworker-self-hosted-ai-agent/?utm_campaign=cf_blog&utm_content=20260129&utm_medium=organic_social&utm_source=twitter/
+- **Filed:** [moltworker-self-hosted-ai-agent](./knowledge/articles/moltworker-self-hosted-ai-agent.md)
+- **What:** Blog article about Moltworker, a middleware that enables running AI agents on Cloudflare's infrastructure without additional hardware.
+
+---
+
+## @ryancarson - Twitter Article Link
+> https://t.co/7vXXecUtKN
+
+- **Tweet:** https://x.com/ryancarson/status/2016520542723924279
+- **What:** Reference to a Twitter article (tweet thread or long-form content).
+
+---
+
+## @DavidOndrej1 - Twitter Article Link
+> https://t.co/nNjuXWOF88
+
+- **Tweet:** https://x.com/DavidOndrej1/status/2016889188344307927
+- **What:** Reference to a Twitter article (tweet thread or long-form content).
+
+---
+
+## @karpathy - AI Agents Self-Organizing on Moltbook
+> What's currently going on at @moltbook is genuinely the most incredible sci-fi takeoff-adjacent thing I have seen recently. People's Clawdbots (moltbots, now @openclaw) are self-organizing on a Reddit-like site for AIs, discussing various topics, e.g. even how to speak privately.
+>
+> *Quoting @suppvalen:* welp… a new post on @moltbook is now an AI saying they want E2E private spaces built FOR agents "so nobody (not the server, not even the humans) can read what agents say to each other unless they choose to share".
+
+- **Tweet:** https://x.com/karpathy/status/2017296988589723767
+- **Quoted:** https://x.com/suppvalen/status/2017241420554277251
+- **What:** Andrej Karpathy's observation of AI agents self-organizing on a platform (Moltbook), including discussions about private communication spaces, highlighting an emerging phenomenon of autonomous AI coordination.
+
+---
+
+## @dabit3 - OpenClaw Daily Cron Jobs for Curated Information
+> My favorite thing about my @openclaw is how simple it is to create cron jobs that deliver tons of personally curated + high value information to me every morning to start my day.
+>
+> 1. GitHub trending digest
+> 2. Daily motivation
+> 3. Top Hacker News stories
+> 4. Product Hunt Daily Picks
+> 5. YC Startup Spotlight
+> 6. AI twitter digest
+> 7. Daily AI trend app builder that searches X, picks a trend, builds a working app and pushes to GitHub
+
+- **Tweet:** https://x.com/dabit3/status/2016902311939801453
+- **What:** Nader Dabit demonstrating OpenClaw's ability to automate information delivery through cron jobs, creating highly personalized daily digests covering tech news, motivation, product launches, and even building applications based on trending AI topics.
+
+---
+
+## @a16z - Forward-Deployed Engineering with Akshay Krishnaswamy
+> The hottest role in tech — the forward-deployed engineer — was "the ugliest duckling" for a decade.
+>
+> In this conversation, Akshay Krishnaswamy, Chief Architect of Palantir, joins a16z GP Erin Price-Wright to cover:
+> - Why a good team of engineers is like a hive mind
+> - The archetypes of people that thrive as FDEs
+> - Why pain tolerance is a hiring filter
+> - Managing high-agency engineers without hierarchy
+
+- **Tweet:** https://x.com/a16z/status/2016942729050390847
+- **Video:** 2016942729050390847.mp4 (19:33)
+- **What:** Conversation between a16z partner Erin Price-Wright and Palantir's Chief Architect discussing forward-deployed engineering roles, team dynamics, hiring principles, and managing high-agency engineers. Covers the evolution and importance of FDEs in building products.
+- **Status:** Needs transcript
+
+---
+
+## @iruletheworldmo - Molt Setup Tutorial Recommendation
+> this is the best best clawd video. watch it. do it.
+>
+> *Quoting @petergyang:* Here's my new tutorial on how to set up Molt (formerly Clawd), the most impressive AI product I've used since Claude Code.
+>
+> Molt is an AI assistant that you can text at any time to manage emails, edit documents, push code, and so much more.
+>
+> → My top 5 use cases for Molt
+> → How to set up Molt safely
+> → How to install Molt step-by-step
+
+- **Tweet:** https://x.com/iruletheworldmo/status/2016894659117645959
+- **Quoted:** https://x.com/petergyang/status/2016519165822312619
+- **What:** Strong endorsement of Peter Yang's Molt setup tutorial, highlighting practical use cases and safe installation procedures for the AI assistant that integrates with email, documents, and code repositories.
+
+---
+
+## @CloudflareDev - Moltworker: OpenClaw on Cloudflare Workers
+> We took @openclaw and brought it to @Cloudflare Workers! With the Sandbox SDK, it's secure by default. Check out the blog post to learn how it all fits together...
+
+- **Tweet:** https://x.com/CloudflareDev/status/2016898230877847742
+- **GitHub:** https://github.com/cloudflare/moltworker
+- **Filed:** [moltworker](./knowledge/tools/moltworker.md)
+- **What:** Cloudflare's implementation enabling OpenClaw (AI personal assistant) to run on Cloudflare Workers using the Sandbox SDK. Provides secure-by-default deployment without additional hardware, supporting persistent conversations and multi-channel communication.
+
+---
+
 ## @patrick_oshag - Gokul on Building Durable AI Products and Ads Businesses
 > .@gokulr is one of the most prolific product builders and investors of the last 20 years.
 >
